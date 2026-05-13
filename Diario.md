@@ -70,4 +70,11 @@ Captura 7: App Opciones
 
 ## Tarea 6 — Limpieza y cierre del diario
 
+No había usado Git antes y es una herramiento que siempre he pensado que era útil para mi alumnado, lo que ocurre que siempre por la falta de tiempo no me había puesto. Se lo había visto a mi alumnado porque otro compañero le había dado indicaciones, pero es nuevo para mi.
+Ahora comprendo mucho mejor qué hace Git, para qué sirve, cómo se usa, etc. Estoy más cómoda con la herramienta.
+Me ha llevado tiempo hacerlo debido a mi falta de experiencia.
+
+Captura 8: Commits
+![Commits](Capturas/captura8.png)
+
 
